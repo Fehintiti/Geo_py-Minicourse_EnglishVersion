@@ -31,6 +31,3 @@ Thank you for exploring the Geo-py Mini-Course in English. Let's embark on this 
 
 - Kevin Alexander (2022). [Python para Geólogos](https://github.com/kevinalexandr19/manual-python-geologia)
 
-## License
- 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This repository is licensed under<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Atribution 4.0 Internacional</a>.

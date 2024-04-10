@@ -1,6 +1,6 @@
 # Geo-py Mini-Course: English Version
 
-Welcome to the English version of the **Geo-py Mini-Course**, originally developed by Rodrigo for the XXX Academic Week at UFRR. This translation is aimed at expanding accessibility to geologists and Python enthusiasts worldwide, demonstrating the practical application of Python in geology. 
+Welcome to the English version of the **Geo-py Mini-Course**, originally developed by Rodrigo for the XXX Academic Week at UFRRJ. This translation is aimed at expanding accessibility to geologists and Python enthusiasts worldwide, demonstrating the practical application of Python in geology. 
 
 ## Acknowledgments
 

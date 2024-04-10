@@ -1,5 +1,7 @@
 # Geo-py Mini-Course: English Version
 
+![pygeo_en](https://github.com/rodreras/Geo_py-Minicourse_EnglishVersion/assets/53950449/dc27adbc-8d98-44e2-8743-8784d8687ac6)
+
 Welcome to the English version of the **Geo-py Mini-Course**, originally developed by Rodrigo for the XXX Academic Week at UFRRJ. This translation is aimed at expanding accessibility to geologists and Python enthusiasts worldwide, demonstrating the practical application of Python in geology
 
 ## Acknowledgments
